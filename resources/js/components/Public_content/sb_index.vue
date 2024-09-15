@@ -1,7 +1,7 @@
 <template>
         <div class="body-content">
              <i class="bx bx-moon fthem-btn" @click="changeTheme" ></i>
-             <h2 class="mt-5 f-title"><i class='bx bxs-car bx-flip-horizontal bx-tada  nav__icon' ></i> WeekCar</h2>
+             <h2 class="mt-5 f-title"><i class='bx bxs-car bx-flip-horizontal bx-tada  nav__icon' ></i>GoRentals</h2>
              <span class="f-description mb-5"> The best car rental services in the country </span>
              <!-- start btn  -->
              <router-link class="start__button mt-5" :to="{name:'index'}"  >START</router-link>
