@@ -34,7 +34,7 @@
 
 // chart => chart.js npm i vue-chartjs chart.js
 import { Bar } from 'vue-chartjs/legacy'
-import { Chart as ChartJS, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale } from 'chart.js'
+
 
 // ChartJS.register(Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale)
 
@@ -86,7 +86,7 @@ export default{
    }
   },
   watch: {
-    commandByMonths(val, oldVal) {
+    commandByMonths(val) {
       for(var i=0;i< val.length;i++){
         this.chartData.datasets[0].data.push(val[i].CommandsCount)
         this.chartData.labels.push(val[i].month)
@@ -132,7 +132,6 @@ export default{
 
  --text-seconde-color-dark: #E3E3E3;
  --text-color-dark:#F1F1F1;
- --text-seconde-color-dark: #E3E3E3;
   /*========== Colors ==========*/
   --my-pr-color:  #232D65;
   --my-sc-color: #929DD9;
