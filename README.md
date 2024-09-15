@@ -41,7 +41,7 @@ I built the app using laravel and vuejs, made a simple backend and also used api
 
 ```bash or terminal
   # Cloning app
-  git clone  https://github.com/AbderrahmaneAmerhhi/car_rental_app
+  git clone  https://github.com/Akpevwe11/car_rental_app
 
   # install composer
    composer install
@@ -65,7 +65,7 @@ I built the app using laravel and vuejs, made a simple backend and also used api
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=yourdatabse_name
+DB_DATABASE=your_databse_name
 DB_USERNAME=root
 DB_PASSWORD=databasepassword
 
@@ -132,18 +132,18 @@ MAIL_FROM_NAME="${APP_NAME}"
 
 #### Manage factory companies
 
-![manage cats image](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/backend/companis.png)
-![manage cats image](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/backend/companisadd.png)
-![manage cats image](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/backend/Homestatistics.png)
+![manage cats image](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/companis.png)
+![manage cats image](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/companisadd.png)
+![manage cats image](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/Homestatistics.png)
 
 #### Manage vehicles
 
-![manage car image1](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/backend/carsmanage.png)
-![manage car image2](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/backend/addcars.png)
+![manage car image1](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/carsmanage.png)
+![manage car image2](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/addcars.png)
 
 #### manage admin profile
 
-![manage admins image1](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/backend/updatadminprofile.png)
+![manage admins image1](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/updatadminprofile.png)
 
 #### Manage Orders
 
@@ -153,20 +153,20 @@ MAIL_FROM_NAME="${APP_NAME}"
 
 #### User Login Register
 
-![User Login image](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/frontend/login.png)
-![User Register image](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/frontend/register.png)
+![User Login image](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/frontend/login.png)
+![User Register image](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/frontend/register.png)
 
 #### Home
 
-![ home image1](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/frontend/homestart.png)
-![ home image1](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/frontend/home1.png)
-![ home image2](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/frontend/catscars.png)
+![ home image1](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/frontend/homestart.png)
+![ home image1](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/frontend/home1.png)
+![ home image2](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/frontend/catscars.png)
 
 #### Contact Us
 
-![ Contact image1](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/frontend/contact.png)
+![ Contact image1](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/frontend/contact.png)
 
 ## Some DarkMode images
 
-![  User DarkMode image1](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/frontend/DarkMode.png)
-![  User DarkMode image2](https://github.com/AbderrahmaneAmerhhi/car_rental_app/blob/main/public/images/github/backend/darkmode.png)
+![  User DarkMode image1](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/frontend/DarkMode.png)
+![  User DarkMode image2](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/darkmode.png)
