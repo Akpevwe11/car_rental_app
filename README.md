@@ -147,7 +147,7 @@ MAIL_FROM_NAME="${APP_NAME}"
 
 #### Manage Orders
 
-![manage Orders image1](https://github.com/AbderrahmaneAmerhhi/Digital-store/blob/main/public/Githubfiles/backend/manageorders.png)
+![manage Orders image1](https://github.com/Akpevwe11/Digital-store/blob/main/public/Githubfiles/backend/manageorders.png)
 
 ## Some user side images
 
