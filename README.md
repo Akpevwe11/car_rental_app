@@ -139,7 +139,7 @@ MAIL_FROM_NAME="${APP_NAME}"
 #### Manage vehicles
 
 ![manage car image1](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/carsmanage.png)
-![manage car image2](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/addcars.png)
+![manage car image2](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/addcar.png)
 
 #### manage admin profile
 
