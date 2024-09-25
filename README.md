@@ -3,7 +3,7 @@
 
 # License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Presentation Slide]](https://docs.google.com/presentation/d/14gdizP8hpLhU64sQaL8gVnrojkGcGRmcD_vF5x4El8U/edit#slide=id.g3057315db7f_0_66)
 
 # The car rental application
 
