@@ -9,7 +9,7 @@
 
 The car rental application enables you to rent cars and display cars through the main factory company
 
-Discover [Vedio](https://abderrahmaneamerrhi.com/assets/carrentalprojectved-36a6384e.mp4).
+Discover [GoRentals](https://abderrahmaneamerrhi.com/assets/carrentalprojectved-36a6384e.mp4).
 
 ## Information
 
