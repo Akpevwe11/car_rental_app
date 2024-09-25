@@ -20,7 +20,7 @@
                         </div>
                         <div class="mb-3 input-group">
                             <input type="number" class="form-control"  v-model="Car.prixJ" placeholder="Entre the Price by Day" aria-label="Dollar amount (with dot and two decimal places)">
-                            <span class="input-group-text">MAD</span>
+                            <span class="input-group-text">$</span>
                         </div>
                         <div class="mb-3">
                             <div class="form-check">

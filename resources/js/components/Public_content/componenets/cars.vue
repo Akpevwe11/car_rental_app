@@ -40,7 +40,7 @@
                      <span class="car-type"> <i class='bx bxs-gas-pump' ></i> {{item.type}} </span>
                      <span class="car-mf-company">{{item.company.title}}</span>
                      <span class="car-brande">{{item.Brande}}</span>
-                     <span class="car-j-prix "><span class="prix">{{item.prixJ}} DH</span>  /day</span>
+                     <span class="car-j-prix "><span class="prix">{{item.prixJ}} Dollar</span>  /day</span>
 
                      <button class="btn" @click="sendDataToparent(item)" v-if="logged != false"> Book car</button>
                      <button class="btn" v-else  data-bs-toggle="modal" data-bs-target="#authmodal"> Book car</button>

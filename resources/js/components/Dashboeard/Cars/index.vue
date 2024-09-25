@@ -309,7 +309,7 @@ export default{
         },
         // change prix day forma
         formatPrixFn: function(value) {
-        return value + ' MAD';
+        return value + '$';
         },
          // active archived row
         activerow(row){
