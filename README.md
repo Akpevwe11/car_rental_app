@@ -133,7 +133,7 @@ MAIL_FROM_NAME="${APP_NAME}"
 #### Manage factory companies
 
 ![manage cats image](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/companis.png)
-![manage cats image](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/companisadd.png)
+![manage cats image](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/companiesadd.png)
 ![manage cats image](https://github.com/Akpevwe11/car_rental_app/blob/main/public/images/github/backend/Homestatistics.png)
 
 #### Manage vehicles
