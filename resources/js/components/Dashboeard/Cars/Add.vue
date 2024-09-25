@@ -12,7 +12,7 @@
         <div class="modal-body">
            <form enctype="multipart/form-data" >
                 <div class="mb-3">
-                    <label for="exampleInputEmail1" class="form-label">Brande</label>
+                    <label for="exampleInputEmail1" class="form-label">Brand</label>
                     <input type="text" v-model="Car.Brande" placeholder="Enter The Car Model" class="form-control"   required>
                 </div>
                 <div class="mb-3 input-group">

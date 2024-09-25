@@ -12,7 +12,7 @@
            <form enctype="multipart/form-data" >
                 <div class="mb-3">
                     <label for="exampleInputEmail1" class="form-label">Title</label>
-                    <input type="text" v-model="Company.title" placeholder="Enter The Barnde Title" class="form-control"   required>
+                    <input type="text" v-model="Company.title" placeholder="Enter The Brand Title" class="form-control"   required>
                 </div>
                 <div class="mb-3">
                     <label for="formFile" class="form-label">Company Logo</label>
