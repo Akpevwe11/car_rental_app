@@ -1,13 +1,13 @@
 <template>
     <div class="home_section">
          <div class="home_desc">
-              <h1 class="desc_title mt-3">WeekCar Find Your Dream Car</h1>
+              <h1 class="desc_title mt-3">GoRentals Find Your Dream Car</h1>
               <p class="desc mt-3">
                 Our company works in providing tourist car rental services. <br/>
                 We offer the best sports and classic cars that suit our valued customers
               </p>
               <div class="desc_social  mt-3">
-                <a href="https://www.instagram.com/abderrahmane_amerrhi/" class="social_btn ig-icon"><i class='bx bxl-instagram'></i></a>
+                <a href="https://www.instagram.com/#" class="social_btn ig-icon"><i class='bx bxl-instagram'></i></a>
                 <a href="" class="social_btn lk-icon"><i class='bx bxl-linkedin ' ></i></a>
                 <a href="" class="social_btn github-icon"><i class='bx bxl-github ' ></i></a>
               </div>

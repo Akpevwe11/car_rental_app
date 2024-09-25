@@ -6,7 +6,7 @@
         <div>
             <a href="#" class="nav__link nav__logo">
                  <i class='bx bxs-car bx-flip-horizontal bx-tada  nav__icon' ></i>
-                <span class="nav__logo-name">WeekCar</span>
+                <span class="nav__logo-name">GoRentals</span>
             </a>
 
             <div class="nav__list">

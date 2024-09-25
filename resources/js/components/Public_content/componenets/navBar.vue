@@ -9,7 +9,7 @@
                </router-link>
                <router-link v-else to="/"  class="nav_logo">
                 <i  class='bx bxs-car ' ></i>
-                <span   class="nav__logo-name">WeekCar</span>
+                <span   class="nav__logo-name">GoRentals</span>
                </router-link>
 
           <div class="nav_menu"  id="nav-menu">

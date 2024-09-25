@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-    Dashboeard
+    Dashboard
 @endsection
 @section('style')
 <link rel="stylesheet" href="{{asset('css/Dashboeard/index.css')}}">
